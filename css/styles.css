@@ -1,0 +1,79 @@
+.c1{
+    width: 500px;
+    height: 800px;
+    align-content: center;
+    background-image: linear-gradient(to bottom right, #2062dd, #333);
+    border: solid black 2px;
+    gap: 20px;
+    padding-top: 15px;
+    display: inline-block;
+    padding: 20px;
+}
+.container1{
+    max-width: 15000px;
+    max-height:10000px;
+    align-content: center;
+    display: flex;
+    padding-top: 300px;
+    padding-left: 650px;
+    
+}
+
+.doc {
+    width: 1400px;
+    height: 900px;
+    align-content: center;
+    background-image: linear-gradient(to bottom right, #2062dd, #333);
+    border: solid black 2px;
+    gap: 20px;
+    padding-top: 15px;
+    padding: 20px;
+}
+.doc1{
+    width: 1400px;
+    height: 2000px;
+    align-content: center;
+    background-image: linear-gradient(to bottom right, #2062dd, #333);
+    border: solid black 2px;
+    gap: 20px;
+    padding-top: 15px;
+    padding: 20px;
+}
+.container{
+     max-width: 15000px;
+    max-height:10000px;
+    align-content: center;
+    display: flex;
+    padding-left: 550px;
+}
+#Exp{
+    padding-left: 550px;
+    width: 1950px;
+    height: 500px;
+    padding-top: 150px;
+    border-radius: 15%;
+}
+#Expi {
+    padding-left: 550px;
+    width: 1950px;
+    height: 500px;
+    padding-top: 50px;
+}
+#Expir {
+    padding-left: 550px;
+    width: 1950px;
+    height: 550px;
+}
+#Expe {
+    width: 1650px;
+    height: 400px;
+}
+.container2{
+    max-width: 15000px;
+    max-height:10000px;
+    align-content: center;
+    display: flex;
+    padding-top: 100px;
+    padding-left: 650px;
+    height: 3050px;
+}
